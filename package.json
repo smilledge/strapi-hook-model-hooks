@@ -1,0 +1,29 @@
+{
+  "name": "strapi-hook-model-hooks",
+  "description": "Strapi hook to add model lifecycle hooks",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "strapi"
+  ],
+  "homepage": "https://github.com/smilledge",
+  "author": {
+    "name": "Sam Milledge",
+    "email": "sam@sammilledge.com",
+    "url": "https://github.com/smilledge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smilledge/strapi-hook-model-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smilledge/strapi-hook-model-hooks/issues"
+  },
+  "main": "lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "strapi": {
+    "isHook": true
+  }
+}
